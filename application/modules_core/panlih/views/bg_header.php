@@ -25,7 +25,7 @@
 		<div class="navbar-inner m-inner">
 		
 			<div class="container-fluid">
-				<a target="_blank" class="brand m-brand" href="<?php echo base_url(); ?>"><?php echo $_SESSION['site_title']; ?><h4><?php echo $_SESSION['site_quotes']; ?></h4></a>
+				<a target="_blank" class="brand m-brand" href="<?php echo base_url(); ?>"><?php echo $_SESSION['site_title']; ?><h4><?php echo $_SESSION['site_tema']; ?></h4></a>
 		        
 				<div class="nav-collapse collapse">
 	

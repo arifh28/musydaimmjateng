@@ -290,3 +290,129 @@ ERROR - 2015-07-02 08:52:10 --> Severity: 8192  --> mysql_pconnect(): The mysql 
 ERROR - 2015-07-02 08:52:10 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
 ERROR - 2015-07-02 08:52:15 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
 ERROR - 2015-07-02 08:52:32 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:38:47 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:39:22 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:39:22 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:39:36 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:39:36 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:39:56 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:39:56 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:40:22 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:40:22 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:40:22 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:40:23 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:40:28 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:40:28 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:40:30 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:40:30 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:40:30 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:40:30 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:40:30 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:40:35 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:40:35 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:40:35 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:40:35 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:40:35 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:40:36 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:41:10 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:41:10 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:41:10 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:41:10 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:41:11 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:41:11 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:41:30 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:41:30 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:41:53 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:41:53 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:42:06 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:42:06 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:45:11 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:45:12 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:45:12 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:45:12 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:45:12 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:45:12 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:49:21 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:49:21 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:49:21 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:49:21 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:49:21 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:49:24 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:49:24 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:49:24 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:49:25 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:49:25 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:49:25 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:49:32 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:49:33 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:49:33 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:49:33 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:49:33 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:49:33 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:49:35 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:49:35 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:49:35 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:49:35 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:49:35 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:49:35 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:49:51 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:49:51 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:49:51 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:49:51 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:49:51 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:49:54 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:49:54 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:49:54 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:49:54 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:49:54 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:50:50 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:50:50 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:50:50 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:50:52 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:50:52 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 14:51:42 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:51:42 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:52:29 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:52:29 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:53:11 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:53:11 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:53:30 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:53:30 --> Severity: Notice  --> mysql_pconnect(): send of 5 bytes failed with errno=10053 An established connection was aborted by the software in your host machine.
+ C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 14:54:04 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 15:05:52 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 15:05:52 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 15:21:24 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 15:26:35 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 15:26:48 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 15:29:39 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 15:30:48 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 15:30:48 --> The uploaded file exceeds the maximum allowed size in your PHP configuration file.
+ERROR - 2015-07-02 15:31:05 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 15:31:05 --> The uploaded file exceeds the maximum allowed size in your PHP configuration file.
+ERROR - 2015-07-02 15:36:13 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 15:36:46 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 15:37:15 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 15:41:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 15:42:34 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 15:42:34 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 15:42:42 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 15:42:43 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 15:46:37 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 15:46:37 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 15:46:45 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 15:46:45 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 15:47:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 15:47:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 15:47:40 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 15:52:19 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 15:52:19 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 15:52:26 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 15:52:27 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 15:52:27 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 15:52:28 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 15:52:38 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\musydaimmjateng\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-07-02 15:52:38 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 15:52:38 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 15:52:38 --> 404 Page Not Found --> 
+ERROR - 2015-07-02 15:52:38 --> 404 Page Not Found --> 

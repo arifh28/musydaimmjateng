@@ -17,7 +17,7 @@
 <nav>
  
   	<div class="pull-left">
-    	<h1><a href="javascript:"><img src="img/icon.png" alt="Free Documentation Template Icon" /> <span>IMM Setengah Abad</span></a></h1>
+    	<h1><a href="http://immsetengahabad.blogspot.com" target="_blank" ><img src="img/icon.png" alt="Free Documentation Template Icon" width="13%"/> <span>IMM Setengah Abad</span></a></h1>
     </div>
     
     <div class="pull-right">
@@ -36,17 +36,21 @@
       <li><strong>Assalamualaikum</strong></li>
       <li><a href="#iftitah" class="cc-active">Iftitah</a></li>
       <li><a href="#benefits" class="cc-active">Keuntungan</a></li>
-      <li><a href="#features" class="cc-active">Fitur</a></li>
       <li><a href="#license" class="cc-active">Lisensi</a></li>
       <li class="separator"></li>
       <li><strong>Konfigurasi</strong></li>
-      <li><a href="#view_type" class="cc-active">View Type</a></li>
-      <li><a href="#animation_style" class="cc-active">Animation Styles</a></li>
-      <li><a href="#bars_text" class="cc-active">Bars Text</a></li>
-      <li><a href="#vote_counter" class="cc-active">Vote Counter</a></li>
-      <li><a href="#rating_icons" class="cc-active">Rating Icons</a></li>
-      <li><a href="#rating_titles" class="cc-active">Rating Titles</a></li>
-      <li><a href="#bar_colors" class="cc-active">Bar Colors</a></li>
+      <li><a href="#view_type" class="cc-active">Installasi</a></li>
+      <li><a href="#halaman_beranda" class="cc-active">Halaman Beranda</a></li>
+      <li class="separator"></li>
+      <li><strong>Fitur</strong></li>
+      <li><a href="#animation_style" class="cc-active">Pimpinan Cabang</a></li>
+      <li><a href="#bars_text" class="cc-active">Panitia</a></li>
+      <li><a href="#vote_counter" class="cc-active">Panlih</a></li>
+      <li><a href="#rating_icons" class="cc-active">Super Admin</a></li>
+      <li class="separator"></li>
+      <li><strong>Lainnya</strong></li>
+      <li><a href="#rating_titles" class="cc-active">Image dan Assets</a></li>
+      <li><a href="#bar_colors" class="cc-active">Dari Admin</a></li>
     </ul>
     <div class="docs-content">
       <h2> Bismillahirahman nirrohim</h2>
@@ -73,35 +77,6 @@
         <li>Pimpinan Cabang dengan mudah mengupload berkas calon formatur dan daftar peserta Musyda. </li>
         <li>Dilengkapi dengan Admin panel untuk manajemen user Pimpinan Cabang.</li>
       </ul>
-      <h3 id="features"> Fitur</h3>
-      <p>Fitur dalam website aplikasi permusyawaratan ini antara lain:</p>
-	  <p style="font-style: oblique"><strong>1. User Pimpinan Cabang terdiri dari :</strong></p>
-	  <ul>
-	    <li>Daftar Peserta Musyda</li>
-	    <li>Daftar Calon Formatur</li>
-	    <li>Download</li>
-	    <li>Profil Cabang</li>
-	    <li>Profil User</li>
-	  </ul>
-	  <p style="font-style: oblique"><strong>2. User Panitia terdiri dari :</strong></p>
-	  <ul>
-	    <li>Melihat daftar Peserta</li>
-	    <li>Data Cabang</li>
-	    <li>Profil Panitia</li>
-	    <li>Ganti Password</li>
-	  </ul>
-	  <p style="font-style: oblique"><strong>3. User Panlih terdiri dari :</strong></p>
-	  <ul>
-	    <li>Melihat Daftar Calon Formatur</li>
-	    <li>Menerima atau menolak Calon Formatur</li>
-	    <li>Mendownload berkas Calon Formatur</li>
-	  </ul>
-	  <p style="font-style: oblique"><strong>4. User Admin terdiri dari :</strong></p>
-	  <ul>
-	    <li>Menambah Operator Pimpinan Cabang dan Admin</li>
-	    <li>Mengatur tampilan website</li>
-	    <li>Memoderasi Pesan Musyda</li>
-	  </ul>
       <h3 id="license"> Lisensi</h3>
       <p> Web aplikasi ini lisensinya <a href="https://hanyalinux.wordpress.com/2014/05/05/mengenal-lisensi-open-source-software/" target="_blank">MIT</a>. 
 	  Admin tidak membuat dari nol aplikasi website ini, namun modifikasi 
@@ -109,7 +84,7 @@
 	  untuk keperluan IMM. Admin sudah meminta izin untuk bisa disebarkan secara gratis. </p>
       <hr>
       <h2 id="konfigurasi"><strong>Konfigurasi</strong></h2>
-      <p> Sebelum dijelaskan cara menggunakan web aplikasi ini, silahkan Immawan/Immawati untuk melihat demonya terlebih dahulu. Link Demo ada dibagian <a href="#demo">atas.</a></p>
+      <p> Sebelum dijelaskan cara menggunakan web aplikasi ini, silahkan Immawan/Immawati untuk melihat demonya terlebih dahulu. Link Demo ada dibagian <a href="#demo"><img src="img/download.png" width="25"/>.</a></p>
       <p>Untuk username dan password Demo:</p>
       <ul>
       <li>Pimpinan Cabang</li>
@@ -119,13 +94,26 @@
       <li>Panitia</li>
       <pre class="prettyprint">username: panitia | password : setengahabadimm</pre>
       <li>Admin</li>
-      <pre class="prettyprint">username: admin | password : setengahabadimm</pre>
+      <pre class="prettyprint">username: superadmin | password : setengahabadimm</pre>
       </ul>
 
       <h3 id="view_type">Installasi</h3>
-      <p>Dalam installasi website ini seperti website pada umumnya yaitu letakkan di folder website. Jika Immawan/Immawati sudah punya webserver sendiri di internet, silahkan upload menggunakan aplikasi ftp kesayangan Immawan/Immawati.
-      Tapi jika masih di webserver lokal dengan menggunakan Apache, PhpMyAdmin (XAMPP/LAMP/WAMP)langsung ditaruh di folder tersebut.</p>
+      <p>Dalam installasi seperti website pada umumnya langsung di copy pada folder website. Jika Immawan/Immawati sudah punya webserver sendiri di internet,
+          silahkan upload menggunakan aplikasi ftp kesayangan Immawan/Immawati. Tapi jika masih di webserver lokal dengan menggunakan Apache, PhpMyAdmin
+          (XAMPP/LAMP/WAMP)langsung ditaruh di folder tersebut.</p>
       <p>Karena ini menggunakan framework PHP Codeigniter, bagi Immawan/Immawati yang belum terbiasa menggunakan silahkan ikuti langkahnya dibawah ini.</p>
+      <ul>
+          <li>Folder Aplikasi</li>
+      </ul>
+      <p>Susunan folder Aplikasi yang ditaruh pada webserver adalah:</p>
+      <pre class="prettyprint">
+          .../application/
+          .../asset/
+          .../captcha/
+          .../system/
+          .../index.php
+          .../.htacces
+      </pre>
       <ul>
         <li>Konfigurasi Database</li>
       </ul>
@@ -152,147 +140,133 @@
       <pre class="prettyprint">
           $config['base_url']	= 'http://'.$_SERVER['SERVER_NAME'].'/musydaimmjateng/';
       </pre>
-      <p>Pada contoh menggunakan <i>.$_SERVER['SERVER_NAME'].</i> karena pada contoh web aplikasi ini bisa dikunjungi oleh komputer
+      <p>Pada contoh menggunakan  <i>.$_SERVER['SERVER_NAME'].</i>  karena pada contoh web aplikasi ini bisa dikunjungi oleh komputer
       lain pada server lokal yang sama lewat jaringan LAN. Namun jika Immawan/Immawati menyewa hosting, baris ini diisi dengan nama domain/
       subdomain website ini. Atau dimana Immawan/Immawati menaruh foldernya contohnya http://tanfidz.dppimm.or.id/musydaimm.</p>
-      <h3 id="animation_style"> Animation Style</h3>
+      <h3 id="halaman_beranda">Halaman Beranda</h3>
       <ul>
-        <li>Slow</li>
+          <li>Tema</li>
       </ul>
-      <pre class="prettyprint">&lt;script&gt;
-    $(document).ready(function (){
-    $('#opineo').opineo('results.php', {curvalue:0, view: 'mini', animation_speed:'slow'});
-    })	
-&lt;/script&gt; </pre>
+      <p>Tema dalam Home menggunakan huruf font Philosopher dari Google Web Font yang berada dalam class css "tema"
+          dengan terlebih dahulu mengimport Google Web Font,</p>
+      <pre class="prettyprint">
+          @import url(http://fonts.googleapis.com/css?family=Karla:400,400italic,700|Philosopher:400,700);
+          .tema {
+    width:980px;
+    text-align: center;
+    border-bottom:2px solid #f00;
+}
+
+.tema h1 {
+    color: #f00;
+    font-weight:bold;
+    font-family: Philosopher;
+    font-size: 40px;
+    text-shadow:1px 1px #ff0;
+    padding:10px;
+}
+.tema p {
+    color: #000;
+    font-size: 18px;
+    padding: 20px;
+    }
+</pre>
+      <p>Immawan/Immawati bisa mencoba <a href="http://www.google.com/fonts">Google Web Font</a> yang cocok dengan website Musyda.</p>
+      <li>Google Maps</li>
+      </ul>
+      <p>Untuk lokasi Musyawarah Daerah menggunakan Google Maps, Immawan/Immawati bisa mendapatkan lokasi dengan terlebih dahulu menentukan
+      nama lokasinya melalui search navigation selanjutnya klik icon gerigi dan pilih Share or Embed (Bagikan dan Sematkan). Pilihlah Embed (Sematkan)
+      dan pilih ukuran Custom Size lalu isikan Width = 943 dan Height = 450 untuk ukuran terbaik.</p>
+      <h3 id="animation_style"> Pimpinan Cabang</h3>
       <ul>
-        <li>Medium</li>
+        <li>Menambahkan Database Pimpinan Cabang dan Ketua Umumnya.</li>
       </ul>
-      <pre class="prettyprint">&lt;script&gt;
-    $(document).ready(function (){
-    $('#opineo').opineo('results.php', {curvalue:0, view: 'mini', animation_speed:'mild'});
-    })	
-&lt;/script&gt; </pre>
+      <p>Aplikasi ini masih belum sempurna, karena untuk menambahkan Pimpinan Cabang harus masuk langsung lewat database di phpmysql.
+      Silahkan Immawan/Immawati tambahkan nama, nama ketua, alamat email dsb. pada tabel "dlmbg_cabang_profil".</p>
+      <p>Setelah Immawan/Immawati menambahkan database Pimpinan Cabang, selanjutnya masuk sebagai Admin lalu pada Operator tambahkan operator
+      mulai dari Nama Ketua, alamat email dsb.</p>
       <ul>
-        <li>Fast</li>
+        <li>Download</li>
       </ul>
-      <pre class="prettyprint">&lt;script&gt;
-    $(document).ready(function (){
-    $('#opineo').opineo('results.php', {curvalue:0, view: 'mini', animation_speed:'fast'});
-    })	
- &lt;/script&gt;</pre>
+      <p>Bagian Download ini tidak ada yang spesial hanya berupa gambar yang jika dilewati mouse akan berubah warna. Tapi link yang dipasang
+      memang berasal dari Dropbox.com, karena selain terbatasnya space hosting juga untuk arsip IMM juga sehingga kita mudah mencarinya.</p>
       <ul>
-        <li>Super Fast</li>
+        <li>Calon Formatur</li>
       </ul>
-      <pre class="prettyprint">&lt;script&gt;
-    $(document).ready(function (){
-    $('#opineo').opineo('results.php', {curvalue:0, view: 'mini', animation_speed:'super'});
-    })	
-&lt;/script&gt;</pre>
+      <p>Pada persyaratan Calon Formatur ini sudah sesuai Ketentuan Pemilihan Pimpinan dan AD/ART dalam Tanfidz XVI IMM. Beberapa point formulirnya
+      pun tidak ada yang perlu dirubah. Namun untuk berkas formatur hanya bisa upload file  .zip, .rar, .7zip atau .tar.gz. dengan ukuran maksimal 2 MB.</p>
       <ul>
-        <li>Ultra Fast</li>
+          <li>Daftar Peserta</li>
       </ul>
-      <pre class="prettyprint"> &lt;script&gt;
-    $(document).ready(function (){
-    $('#opineo').opineo('results.php', {curvalue:0, view: 'mini', animation_speed:'ultra fast'});
-    })	
-&lt;/script&gt; </pre>
-      <h3 id="bars_text"> Bars Text</h3>
+      <p>Pendaftaran peserta dengan formulir yang terdiri dari Nama, Immawan/Immawati, Asal Komisariat, dan No. HP. Dengan ketentuan tambahan surat Mandat,
+      foto peserta dan tentunya SWO dan SWP.</p>
+      <li>Manajemen Pimpinan Cabang dan User</li>
+      </ul>
+      <p>Pengisian/penggantian data-data baik mengenai Pimpinan Cabang atau Ketua Umum/Operator.</p>
+
+      <h3 id="bars_text">Panitia</h3>
       <ul>
-        <li>Show</li>
+        <li>Daftar Peserta</li>
       </ul>
-      <pre class="prettyprint">&lt;script&gt;
-    $(document).ready(function (){
-    $('#opineo').opineo('results.php', {curvalue:0, view: 'mini', votes_label:true});
-    })	
-&lt;/script&gt;</pre>
+      <p>Menampilkan seluruh data peserta dari semua Pimpinan Cabang.</p>
+      <li>Daftar Pimpinan Cabang</li>
+      </ul>
+      <p>Menampilkan data Pimpinan Cabang.</p>
       <ul>
-        <li>Hide</li>
+        <li>Manajemen User Panitia</li>
       </ul>
-      <pre class="prettyprint">&lt;script&gt;
-    $(document).ready(function (){
-    $('#opineo').opineo('results.php', {curvalue:0, view: 'mini', votes_label:false});
-    })	
- &lt;/script&gt;</pre>
-      <h3 id="vote_counter"> Vote Counter</h3>
+      <p>Pengisian/penggantian data-data mengenai data diri panitia atau password.</p>
+      <h3 id="vote_counter">Panlih</h3>
       <ul>
-        <li>Show</li>
+        <li>Daftar Calon Formatur</li>
       </ul>
-      <pre class="prettyprint">&lt;script&gt;
-    $(document).ready(function (){
-    $('#opineo').opineo('results.php', {curvalue:0, view: 'mini', show_votes_counter:true});
-    })	
-&lt;/script&gt; </pre>
+      <p>Menampilkan data Calon Formatur dari Pimpinan Cabang serta melakukan pengecekan berkas.</p>
       <ul>
-        <li>Hide</li>
+          <li>Manajemen User Panlih</li>
       </ul>
-      <pre class="prettyprint">&lt;script&gt;
-    $(document).ready(function (){
-    $('#opineo').opineo('results.php', {curvalue:0, view: 'mini', votes_label:false});
-    })	
-&lt;/script&gt;</pre>
-      <h3 id="rating_icons"> Rating Icons</h3>
+      <p>Pengisian/penggantian data-data mengenai data diri panlih atau password.</p>
+      <h3 id="rating_icons">Super Admin</h3>
       <ul>
-        <li>Colored</li>
-        <li>Grey</li>
+          <li>Menambah/menghapus operator Pimpinan Cabang</li>
+          <li>Membuat Menu baru</li>
+          <li>Memoderasi Pesan Musyda</li>
+          <li>Menambah/menghapus operator Pimpinan Cabang</li>
+          <li>Mengatur website seperti nama website, tema Musyda, footer, slider dsb.</li>
       </ul>
-      <h3 id="rating_titles"> Rating Titles</h3>
+      <h3 id="rating_titles">Image dan Assets</h3>
       <ul>
-        <li>Text For First Star</li>
+        <li>Icon</li>
       </ul>
-      <pre class="prettyprint">&lt;script&gt;
-    $(document).ready(function (){
-    $('#opineo').opineo('results.php', {curvalue:0, view: 'mini', star_1_text:'Hate It'});
-    })	
-&lt;/script&gt;</pre>
+      <p>Icon-icon sudah satu paket dalam folder aplikasi, namun jika Immawan/Immawati ingin mengganti warna atau bentuknya, dalam
+          folder svg sudah ada.</p>
       <ul>
-        <li>Text For Second Star</li>
+        <li>Assets</li>
       </ul>
-      <pre class="prettyprint">&lt;script&gt;
-    $(document).ready(function (){
-    $('#opineo').opineo('results.php', {curvalue:0, view: 'mini', star_2_text:'Don't Like It'});
-    })	
-&lt;/script&gt; </pre>
+      <p>Gambar breadcump terlalu jelek? Immawan/Immawati bisa menggantinya di file global_assets.svg</p>
       <ul>
-        <li>Text For Third Star</li>
+        <li>Gambar latar belakang</li>
       </ul>
-      <pre class="prettyprint">&lt;script&gt;
-    $(document).ready(function (){
-    $('#opineo').opineo('results.php', {curvalue:0, view: 'mini', star_1_text:'Its OK'});
-    })	
-&lt;/script&gt;</pre>
-      <ul>
-        <li>Text For Fourth Star</li>
-      </ul>
-      <pre class="prettyprint">&lt;script&gt;
-    $(document).ready(function (){
-    $('#opineo').opineo('results.php', {curvalue:0, view: 'mini', star_1_text:'Like It'});
-    })	
-&lt;/script&gt;</pre>
-      <ul>
-        <li>Text For Fifth Star</li>
-      </ul>
-      <pre class="prettyprint">&lt;script&gt;
-    $(document).ready(function (){
-    $('#opineo').opineo('results.php', {curvalue:0, view: 'mini', star_1_text:'Love It'});
-    })	
-&lt;/script&gt;</pre>
-      <h3 id="bar_colors"> Bar Colors</h3>
-      <ul>
-        <li>Colors of Red Bar</li>
-        <li>Colors of Yellow Bar</li>
-        <li>Colors of Green Bar</li>
-      </ul>
+      <p>Edit file bg.svg lalu timpa file bg.png di folder .../asset/theme/blue-clouds/images/ dan gambar latar belakang akan berganti.</p>
+      <h3 id="bar_colors">Dari Admin</h3>
+    <p>Aplikasi website ini masih jauh dari sempurna dan bagus. Pada kenyataannya, berkas calon formatur harus diserahkan juga dengan hard
+    copy dari Pimpinan Cabang yang bersangkutan. Dan kesadaran Pimpinan Cabang tidak semuanya sama, sehingga tidak semua Pimpinan Cabang mengisi
+    mendaftar secara online apalagi membayar SWP/SWO dengan penuh. Acara permusyawaratan bukan hanya sekedar acara memilih Calon Formatur saja,
+    tapi lebih kepada mempererat tali silaturahim antar cabang/komisariat.</p>
+    <p>Dan yang terpenting adalah jangan pernah ada IMM sampai memunculkan politik uang apalagi hanya tingkat DPD. Selain itu juga, Musyda
+    sebagai ajang pembelajaran bersama, bukan sekedar penghakiman semata pada pimpinan yang akan bertanggung jawab. Serta yang terpilih
+    formatur menjadi penerus yang baik dari pimpinan sebelumnya.</p>
     </div>
   </div>
 </section>
 <section class="vibrant centered">
   <div class="">
-    <h4> This documentation template is provided by <a href="http://www.frittt.com" target="_blank">Frittt Templates</a>. You can download and use this template for free. If you have used this template, please pay the developer's effort by Tweeting, sharing on Facebook, social mention or with a linkback. Enjoy! :)</h4>
+    <h4>Semoga karya ini bisa dilanjutkan oleh Immawan/Immawati semuanya. Fastabiqul khairat.</h4>
+    <h3><i>Menolak Tunduk dan Bangkit Melawan. Karena Mundur adalah Pengkhianatan.</i></h3>
   </div>
 </section>
 <footer>
   <div class="">
-    <p> &copy; Copyright Frittt Templates. All Rights Reserved.</p>
+    <p>IMM Setengah Abad &copy; 2015. Lisensi berdasar pada MIT.</p>
   </div>
 </footer>
 </div>

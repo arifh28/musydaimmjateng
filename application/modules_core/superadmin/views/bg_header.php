@@ -48,10 +48,8 @@
 			          		<span class="caret"></span>
 				        </a>
 				        <ul class="dropdown-menu">
-			          		<li class="divider"></li>
 			          		<li><a href="<?php echo base_url(); ?>superadmin/user"><i class="icon-leaf"></i> Manajemen User</a></li>
-							
-	 		 				<li class="divider"></li>
+                            <li class="divider"></li>
 			          		<li><a href="<?php echo base_url(); ?>superadmin/routing_pages"><i class="icon-refresh"></i> Routing Pages</a></li>
 			          		<li><a href="<?php echo base_url(); ?>superadmin/sistem"><i class="icon-fire"></i> Sistem</a></li>
 				        </ul>

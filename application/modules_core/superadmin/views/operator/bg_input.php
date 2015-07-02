@@ -21,9 +21,9 @@
 					
 				<?php echo form_open("superadmin/operator/simpan"); ?>
 				
-				<label for="bidang">Sekolah</label>
+				<label for="bidang">Pimpinan Cabang</label>
 				<div class="cleaner_h5"></div>
-				<select id="bidang" name="id_cabang" class="chzn-select" data-placeholder="Pilih Sekolah..." tabindex="2" style="width:90%;" >
+				<select id="bidang" name="id_cabang" class="chzn-select" data-placeholder="Pilih Pimpinan Cabang" tabindex="2" style="width:90%;" >
 				<option value=""></option>
 					<?php 
 					foreach($cabang->result_array() as $b)

@@ -16,7 +16,7 @@
             <img src="<?php echo base_url(); ?>asset/theme/<?php echo $_SESSION['site_theme']; ?>/images/komisariat.png"  width="70" border="0"/>
         </a>
         <div class="cleaner_h0"></div>
-        DAFTAR PESERTA
+        DAFTAR PIMPINAN CABANG
     </div>
 
 	<div id="dashboard-icon-small">

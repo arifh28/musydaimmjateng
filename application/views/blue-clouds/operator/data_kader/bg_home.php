@@ -13,13 +13,13 @@
         b)Untuk Pimpinan Komisariat IMM diketahui oleh PC IMM masing-masing.
     </p>
     <p>
-        2. Membayar SWO sebesar Rp. 200.000/ PC.
+        2. Membayar SWO sebesar Rp. -/ PC.
     </p>
     <p>
-        3. Membayar SWP sebesar Rp. 200.000 @Peserta.
+        3. Membayar SWP sebesar Rp. - @Peserta.
     </p>
     <p>
-        4. Mengisi biodata peserta dan pas photo berwarna 3 x 4 cm sebanyak 3 lembar saat pendaftaran Musyda.
+        4. Membawa pas photo berwarna 3 x 4 cm sebanyak 3 lembar saat pendaftaran Musyda.
     </p>
     <p>
         5. Mengisi formulir secara online pada formulir di link <a href="#daftar_peserta"><strong>Daftar Peserta</strong></a> diatas.

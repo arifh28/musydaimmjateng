@@ -22,9 +22,4 @@ c. Memoderasi Pesan Musyda
 
 #Demo
 
-Kunjungi <a href="http://tanfidz.dppimm.or.id/webmusyda" target="_blank">Web Musyda</a>
-Username dan Password demo.
-1. Pimpinan Cabang = username: pimpinancabang | password : setengahabadimm
-2. Panlih = username: panlih | password : setengahabadimm
-3. Panitia = username: panitia | password : setengahabadimm
-4. Admin = username: superadmin | password : setengahabadimm
+Kunjungi <a href="http://tanfidz.dppimm.or.id/webmusyda" target="_blank">Web Musyda</a> dan untuk username dan password bisa dilihat pada blog <a href="http://immsetengahabad.blogspot.com/" target="_blank">IMM Setengah Abad</a> atau pada file Untuk Immawan atau Immawati.

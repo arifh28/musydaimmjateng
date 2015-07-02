@@ -1,217 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd1b88a3-cd05-4549-973f-c36193434d33" name="Default" comment="Update panlih">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dokumentasi.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMM Setengah Abad.html" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\berita\bg_detail.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\berita\bg_home.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\bidang\agenda_panitia\bg_detail.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\bidang\agenda_panitia\bg_home.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\bidang\berita_panitia\bg_detail.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\bidang\berita_panitia\bg_home.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\bidang\bg_dashboard.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\bidang\bg_home.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\bidang\list_download_panitia\bg_detail.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\bidang\list_download_panitia\bg_home.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\bidang\pengumuman_panitia\bg_detail.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\bidang\pengumuman_panitia\bg_home.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\download\bg_detail.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\download\bg_home.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\formatur_cabang\bg_detail.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\formatur_cabang\bg_home.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\galeri\bg_home.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\pengumuman\bg_detail.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\pengumuman\bg_home.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\musydaxvii.sql" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\DCO.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_downloads\ELDocs.tmbundle.zip" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_images\appflowchart.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_images\smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\ajax-loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\basic.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\ci-icon.ico" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\comment-bright.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\comment-close.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\comment.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\css\badge_only.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\css\theme.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\doctools.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\down-pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\down.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\file.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\fonts\FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\fonts\fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\fonts\fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\fonts\fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\fonts\fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\js\oldtheme.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\js\theme.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\minus.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\plus.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\pygments.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\searchtools.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\underscore.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\up-pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\up.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\websupport.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\changelog.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\contributing\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\database\caching.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\database\call_function.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\database\configuration.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\database\connecting.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\database\db_driver_reference.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\database\examples.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\database\forge.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\database\helpers.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\database\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\database\metadata.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\database\queries.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\database\query_builder.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\database\results.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\database\transactions.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\database\utilities.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\documentation\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\alternative_php.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\ancillary_classes.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\autoloader.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\caching.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\cli.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\common_functions.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\compatibility_functions.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\controllers.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\core_classes.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\creating_drivers.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\creating_libraries.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\credits.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\drivers.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\environments.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\errors.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\helpers.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\hooks.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\libraries.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\managing_apps.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\models.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\profiling.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\requirements.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\reserved_names.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\routing.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\security.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\styleguide.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\urls.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\views.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\welcome.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\genindex.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\array_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\captcha_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\cookie_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\date_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\directory_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\download_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\email_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\file_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\form_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\html_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\inflector_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\language_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\number_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\path_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\security_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\smiley_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\string_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\text_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\typography_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\url_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\xml_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\downloads.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\troubleshooting.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_120.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_130.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_131.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_132.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_133.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_140.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_141.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_150.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_152.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_153.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_154.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_160.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_161.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_162.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_163.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_170.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_171.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_172.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_200.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_201.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_202.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_203.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_210.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_211.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_212.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_213.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_214.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_220.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_221.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_300.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_b11.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrading.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\benchmark.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\caching.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\calendar.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\cart.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\config.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\email.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\encrypt.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\encryption.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\file_uploading.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\form_validation.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\ftp.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\image_lib.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\input.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\javascript.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\language.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\loader.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\migration.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\output.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\pagination.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\parser.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\security.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\sessions.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\table.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\trackback.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\typography.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\unit_testing.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\uri.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\user_agent.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\xmlrpc.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\zip.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\license.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\objects.inv" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\overview\appflow.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\overview\at_a_glance.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\overview\features.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\overview\getting_started.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\overview\goals.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\overview\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\overview\mvc.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\search.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\searchindex.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\tutorial\conclusion.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\tutorial\create_news_items.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\tutorial\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\tutorial\news_section.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\tutorial\static_pages.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/blue-clouds/admin_panitia/data_cabang/bg_home.php" afterPath="$PROJECT_DIR$/application/views/blue-clouds/admin_panitia/data_cabang/bg_home.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/logs/log-2015-07-02.php" afterPath="$PROJECT_DIR$/application/logs/log-2015-07-02.php" />
+    <list default="true" id="dd1b88a3-cd05-4549-973f-c36193434d33" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="dinas-pendidikan.iws" />
@@ -240,8 +32,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Dokumentasi/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.74725276" vertical-offset="2329" max-vertical-offset="5270">
-              <caret line="161" column="22" selection-start-line="161" selection-start-column="22" selection-end-line="161" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.6849817" vertical-offset="2329" max-vertical-offset="5270">
+              <caret line="159" column="21" selection-start-line="159" selection-start-column="21" selection-end-line="159" selection-end-column="21" />
               <folding>
                 <element signature="n#style#0;n#p#8;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -300,6 +92,7 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -527,6 +320,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -542,6 +336,12 @@
       <method />
     </configuration>
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.database.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -599,13 +399,20 @@
       <option name="project" value="LOCAL" />
       <updated>1435819292065</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Dokumentasi dan pembaruan database">
+      <created>1435836818034</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1435836818034</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1374" height="732" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -621,7 +428,6 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -648,7 +454,8 @@
     <MESSAGE value="Update limit_footer_formatur_cabang" />
     <MESSAGE value="Update routing_page" />
     <MESSAGE value="Update panlih" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update panlih" />
+    <MESSAGE value="Dokumentasi dan pembaruan database" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dokumentasi dan pembaruan database" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -664,20 +471,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/application/modules_core/superadmin/views/cabang/bg_home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5604396" vertical-offset="0" max-vertical-offset="546">
-          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/blue-clouds/operator/download_cabang/bg_home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="748">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/views/blue-clouds/operator/bg_home.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.62271065" vertical-offset="0" max-vertical-offset="1377">
@@ -1022,10 +815,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="dbDummy://db-console:/39addc07/96e54774-a9ce-49d7-ad01-98d62bd04749/">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/musyda.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6241259" vertical-offset="0" max-vertical-offset="12495">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Dokumentasi/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.74725276" vertical-offset="2329" max-vertical-offset="5270">
-          <caret line="161" column="22" selection-start-line="161" selection-start-column="22" selection-end-line="161" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.6849817" vertical-offset="2329" max-vertical-offset="5270">
+          <caret line="159" column="21" selection-start-line="159" selection-start-column="21" selection-end-line="159" selection-end-column="21" />
           <folding>
             <element signature="n#style#0;n#p#8;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>

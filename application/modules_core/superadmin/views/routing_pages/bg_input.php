@@ -14,43 +14,7 @@
 				<div class="cleaner_h5"></div>
 				<input type="search" style="width:90%;" id="menu" name="menu" placeholder="Judul Menu" value="<?php echo $menu; ?>" />
 				<div class="cleaner_h10"></div>
-				
-				<label for="id_parent">Parent Menu</label>
-				<div class="cleaner_h5"></div>
-				<select name="id_parent" id="id_parent">
-					<?php
-					if($id_parent==0)
-					{
-						?>
-						<option value="0" selected="selected">None</option>
-						<?php
-					}
-					else
-					{
-						?>
-						<option value="0">None</option>
-						<?php
-					}
-					?>
-					<?php
-						foreach ($menu_list->result_array() as $ml) {
-							if($id_parent==$ml['id_menu'])
-							{
-						?>
-							<option value="<?php echo $ml['id_menu']; ?>" selected="selected"><?php echo $ml['menu']; ?></option>
-						<?php
-							}
-							else
-							{
-						?>
-							<option value="<?php echo $ml['id_menu']; ?>"><?php echo $ml['menu']; ?></option>
-						<?php
-							}
-						}
-					?>
-				</select>
-				<div class="cleaner_h10"></div>
-				
+
 				<label for="url_route">URL Route </label>
 				<div class="cleaner_h5"></div>
 				<input type="search" style="width:90%;" id="url_route" name="url_route" placeholder="URL Route" value="<?php echo $url_route; ?>" />
@@ -60,7 +24,7 @@
 				<div class="cleaner_h5"></div>
 				<textarea name="content" id="alamat" cols="50" rows="6"><?php echo $content; ?></textarea>
 				<div class="cleaner_h10"></div>
-				
+
 				<label for="posisi">Posisi</label>
 				<div class="cleaner_h5"></div>
 				<?php $a=""; $b="";

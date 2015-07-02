@@ -17,7 +17,7 @@ class formatur_cabang extends MX_Controller {
 			
 			$d['menu_atas'] = $this->app_global_model->generate_menu('0','atas',$h='','treemenu1');
 			$d['menu_bawah'] = $this->app_global_model->generate_menu('0','bawah',$h='');
-			$d['dt_formatur_cabang'] = $this->app_global_model->generate_menu_formatur_cabang($_SESSION['limit_footer_formatur_cabang'],0);
+
 
 			$filter['nama'] = $this->session->userdata("by_nama");
 			$d['dt_data_formatur_cabang'] = $this->app_global_operator_model->generate_index_formatur_cabang($this->config->item("limit_item_big"),$uri,$filter);
@@ -45,7 +45,7 @@ class formatur_cabang extends MX_Controller {
 			
 			$d['menu_atas'] = $this->app_global_model->generate_menu('0','atas',$h='','treemenu1');
 			$d['menu_bawah'] = $this->app_global_model->generate_menu('0','bawah',$h='');
-			$d['dt_formatur_cabang'] = $this->app_global_model->generate_menu_formatur_cabang($_SESSION['limit_footer_formatur_cabang'],0);
+
 
 			$d['nama'] = "";
 			$d['wan_wati'] = "";
@@ -85,7 +85,7 @@ class formatur_cabang extends MX_Controller {
 			
 			$d['menu_atas'] = $this->app_global_model->generate_menu('0','atas',$h='','treemenu1');
 			$d['menu_bawah'] = $this->app_global_model->generate_menu('0','bawah',$h='');
-			$d['dt_formatur_cabang'] = $this->app_global_model->generate_menu_formatur_cabang($_SESSION['limit_footer_formatur_cabang'],0);
+
 
 			$where['id_cabang_formatur'] = $id_param;
 			$where['id_cabang_profil'] = $this->session->userdata("id_cabang");

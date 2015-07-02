@@ -12,8 +12,6 @@ class web extends MX_Controller {
       $d['menu_atas'] = $this->app_global_model->generate_menu('0','atas',$h='','treemenu1');
       $d['menu_bawah'] = $this->app_global_model->generate_menu('0','bawah',$h='');
 
-      $d['dt_formatur_cabang'] = $this->app_global_model->generate_menu_formatur_cabang($_SESSION['limit_footer_formatur_cabang'],0);
-
       $this->load->view($_SESSION['site_theme'].'/bg_header',$d);
       $this->load->view($_SESSION['site_theme'].'/bg_slider');
       $this->load->view($_SESSION['site_theme'].'/bg_breadcumb');

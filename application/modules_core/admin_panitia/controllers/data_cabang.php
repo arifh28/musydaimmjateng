@@ -17,7 +17,7 @@ class data_cabang extends MX_Controller {
 			
 			$d['menu_atas'] = $this->app_global_model->generate_menu('0','atas',$h='','treemenu1');
 			$d['menu_bawah'] = $this->app_global_model->generate_menu('0','bawah',$h='');
-			$d['dt_formatur_cabang'] = $this->app_global_model->generate_menu_formatur_cabang($_SESSION['limit_footer_formatur_cabang'],0);
+
 
 
             $d['dt_data_kader'] = $this->app_global_model->generate_index_kader($this->config->item("limit_item_medium"),0);

@@ -1,8 +1,216 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd1b88a3-cd05-4549-973f-c36193434d33" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/modules_core/panlih/views/bg_header.php" afterPath="$PROJECT_DIR$/application/modules_core/panlih/views/bg_header.php" />
+    <list default="true" id="dd1b88a3-cd05-4549-973f-c36193434d33" name="Default" comment="Update panlih">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dokumentasi.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IMM Setengah Abad.html" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\berita\bg_detail.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\berita\bg_home.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\bidang\agenda_panitia\bg_detail.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\bidang\agenda_panitia\bg_home.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\bidang\berita_panitia\bg_detail.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\bidang\berita_panitia\bg_home.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\bidang\bg_dashboard.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\bidang\bg_home.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\bidang\list_download_panitia\bg_detail.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\bidang\list_download_panitia\bg_home.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\bidang\pengumuman_panitia\bg_detail.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\bidang\pengumuman_panitia\bg_home.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\download\bg_detail.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\download\bg_home.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\formatur_cabang\bg_detail.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\formatur_cabang\bg_home.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\galeri\bg_home.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\pengumuman\bg_detail.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\application\views\blue-clouds\pengumuman\bg_home.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\musydaxvii.sql" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\DCO.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_downloads\ELDocs.tmbundle.zip" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_images\appflowchart.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_images\smile.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\basic.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\ci-icon.ico" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\comment-bright.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\comment-close.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\comment.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\css\badge_only.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\css\theme.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\doctools.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\down-pressed.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\down.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\file.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\fonts\FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\fonts\fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\fonts\fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\fonts\fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\fonts\fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\js\oldtheme.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\js\theme.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\minus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\plus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\pygments.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\searchtools.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\underscore.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\up-pressed.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\up.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\_static\websupport.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\changelog.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\contributing\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\database\caching.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\database\call_function.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\database\configuration.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\database\connecting.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\database\db_driver_reference.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\database\examples.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\database\forge.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\database\helpers.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\database\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\database\metadata.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\database\queries.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\database\query_builder.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\database\results.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\database\transactions.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\database\utilities.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\documentation\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\alternative_php.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\ancillary_classes.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\autoloader.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\caching.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\cli.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\common_functions.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\compatibility_functions.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\controllers.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\core_classes.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\creating_drivers.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\creating_libraries.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\credits.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\drivers.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\environments.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\errors.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\helpers.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\hooks.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\libraries.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\managing_apps.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\models.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\profiling.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\requirements.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\reserved_names.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\routing.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\security.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\styleguide.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\urls.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\views.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\general\welcome.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\genindex.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\array_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\captcha_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\cookie_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\date_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\directory_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\download_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\email_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\file_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\form_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\html_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\inflector_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\language_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\number_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\path_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\security_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\smiley_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\string_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\text_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\typography_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\url_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\helpers\xml_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\downloads.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\troubleshooting.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_120.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_130.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_131.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_132.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_133.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_140.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_141.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_150.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_152.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_153.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_154.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_160.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_161.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_162.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_163.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_170.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_171.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_172.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_200.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_201.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_202.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_203.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_210.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_211.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_212.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_213.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_214.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_220.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_221.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_300.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrade_b11.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\installation\upgrading.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\benchmark.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\caching.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\calendar.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\cart.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\config.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\email.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\encrypt.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\encryption.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\file_uploading.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\form_validation.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\ftp.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\image_lib.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\input.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\javascript.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\language.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\loader.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\migration.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\output.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\pagination.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\parser.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\security.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\sessions.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\table.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\trackback.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\typography.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\unit_testing.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\uri.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\user_agent.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\xmlrpc.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\libraries\zip.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\license.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\objects.inv" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\overview\appflow.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\overview\at_a_glance.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\overview\features.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\overview\getting_started.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\overview\goals.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\overview\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\overview\mvc.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\search.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\searchindex.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\tutorial\conclusion.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\tutorial\create_news_items.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\tutorial\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\tutorial\news_section.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\musydaimmjateng\user_guide\tutorial\static_pages.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/blue-clouds/admin_panitia/data_cabang/bg_home.php" afterPath="$PROJECT_DIR$/application/views/blue-clouds/admin_panitia/data_cabang/bg_home.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/logs/log-2015-07-02.php" afterPath="$PROJECT_DIR$/application/logs/log-2015-07-02.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -29,65 +237,57 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="routing_pages.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/modules_core/superadmin/controllers/routing_pages.php">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Dokumentasi/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="2873">
-              <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bg_home.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/modules_core/superadmin/views/routing_pages/bg_home.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="289">
-              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bg_input.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/modules_core/superadmin/views/routing_pages/bg_input.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.807693" vertical-offset="170" max-vertical-offset="884">
-              <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.74725276" vertical-offset="2329" max-vertical-offset="5270">
+              <caret line="161" column="22" selection-start-line="161" selection-start-column="22" selection-end-line="161" selection-end-column="22" />
               <folding>
-                <element signature="n#style#0;n#input#0;n#section#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#1;n#section#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#8;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="panlih.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/modules_core/panlih/controllers/panlih.php">
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/config/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.5" vertical-offset="26" max-vertical-offset="663">
-              <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+            <state vertical-scroll-proportion="-11.115385" vertical-offset="255" max-vertical-offset="12682">
+              <caret line="32" column="6" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="76" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bg_home.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/modules_core/panlih/views/bg_home.php">
+      <file leaf-file-name="database.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/config/database.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="272">
+            <state vertical-scroll-proportion="-15.615385" vertical-offset="1855" max-vertical-offset="2414">
+              <caret line="133" column="0" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bg_slider.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/blue-clouds/bg_slider.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="3689">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bg_header.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/application/modules_core/panlih/views/bg_header.php">
+      <file leaf-file-name="Dokumentasi.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dokumentasi.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5557692" vertical-offset="0" max-vertical-offset="1564">
-              <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
-              <folding />
+            <state vertical-scroll-proportion="-13.153846" vertical-offset="865" max-vertical-offset="1462">
+              <caret line="71" column="16" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
+              <folding>
+                <element signature="n#style#0;n#h1#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -105,12 +305,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/application/views/blue-clouds/admin_panitia/password/bg_home.php" />
-        <option value="$PROJECT_DIR$/application/modules_core/panlih/controllers/formatur_cabang.php" />
-        <option value="$PROJECT_DIR$/application/views/blue-clouds/operator/formatur_cabang/bg_input.php" />
-        <option value="$PROJECT_DIR$/application/models/app_global_panlih_model.php" />
-        <option value="$PROJECT_DIR$/application/views/blue-clouds/operator/data_kader/bg_input.php" />
-        <option value="$PROJECT_DIR$/application/modules_core/panlih/views/formatur_cabang/bg_home.php" />
         <option value="$PROJECT_DIR$/application/views/blue-clouds/operator/formatur_cabang/bg_home.php" />
         <option value="$PROJECT_DIR$/application/views/blue-clouds/operator/data_kader/bg_home.php" />
         <option value="$PROJECT_DIR$/application/models/app_global_operator_model.php" />
@@ -118,7 +312,6 @@
         <option value="$PROJECT_DIR$/application/views/blue-clouds/bg_slider.php" />
         <option value="$PROJECT_DIR$/application/views/blue-clouds/bg_footer.php" />
         <option value="$PROJECT_DIR$/application/views/blue-clouds/admin_panitia/bg_home.php" />
-        <option value="$PROJECT_DIR$/application/views/blue-clouds/admin_panitia/data_cabang/bg_home.php" />
         <option value="$PROJECT_DIR$/application/modules_core/superadmin/controllers/admin_panitia.php" />
         <option value="$PROJECT_DIR$/application/config/config.php" />
         <option value="$PROJECT_DIR$/application/config/routes.php" />
@@ -156,6 +349,13 @@
         <option value="$PROJECT_DIR$/application/modules_core/web/controllers/web.php" />
         <option value="$PROJECT_DIR$/application/modules_core/superadmin/views/routing_pages/bg_input.php" />
         <option value="$PROJECT_DIR$/application/modules_core/panlih/views/bg_header.php" />
+        <option value="$PROJECT_DIR$/application/views/blue-clouds/admin_panitia/data_cabang/bg_home.php" />
+        <option value="$PROJECT_DIR$/IMM Setengah Abad.html" />
+        <option value="$PROJECT_DIR$/Untuk Immawan dan Immawati/js/layout.js" />
+        <option value="$PROJECT_DIR$/Untuk Immawan dan Immawati/css/style.css" />
+        <option value="$PROJECT_DIR$/Untuk Immawan dan Immawati/index.html" />
+        <option value="$PROJECT_DIR$/Dokumentasi.html" />
+        <option value="$PROJECT_DIR$/Dokumentasi/index.html" />
       </list>
     </option>
   </component>
@@ -173,7 +373,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -192,6 +392,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -220,7 +421,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
+              <option name="myItemId" value="Dokumentasi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dinas-pendidikan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="musydaimmjateng" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Dokumentasi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -237,18 +456,6 @@
               <option name="myItemId" value="application" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules_core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -261,14 +468,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules_core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="superadmin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -290,19 +489,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="modules_core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="superadmin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="routing_pages" />
+              <option name="myItemId" value="blue-clouds" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -320,169 +511,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="modules_core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="superadmin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dinas-pendidikan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="musydaimmjateng" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules_core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="panlih" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dinas-pendidikan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="musydaimmjateng" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules_core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="panlih" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dinas-pendidikan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="musydaimmjateng" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules_core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="operator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dinas-pendidikan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="musydaimmjateng" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules_core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="auth" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dinas-pendidikan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="musydaimmjateng" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules_core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin_panitia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dinas-pendidikan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="musydaimmjateng" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
+              <option name="myItemId" value="config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -492,6 +526,7 @@
     <property name="options.lastSelected" value="vcs" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -516,15 +551,15 @@
       <BehatRunner />
       <method />
     </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
       <tasks />
       <pass-parent-env-vars>false</pass-parent-env-vars>
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <list size="0" />
@@ -558,14 +593,19 @@
       <option name="project" value="LOCAL" />
       <updated>1435818509586</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update panlih">
+      <created>1435819292065</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1435819292065</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1374" height="732" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -578,13 +618,14 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -606,7 +647,8 @@
     </option>
     <MESSAGE value="Update limit_footer_formatur_cabang" />
     <MESSAGE value="Update routing_page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update routing_page" />
+    <MESSAGE value="Update panlih" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update panlih" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -622,62 +664,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/asset/theme/blue-clouds/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="99467">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/blue-clouds/bg_slider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.62271065" vertical-offset="2703" max-vertical-offset="3689">
-          <caret line="179" column="30" selection-start-line="179" selection-start-column="28" selection-end-line="179" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/blue-clouds/admin_panitia/data_kader/bg_home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="289">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/app_global_operator_model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34065935" vertical-offset="647" max-vertical-offset="3196">
-          <caret line="49" column="59" selection-start-line="49" selection-start-column="59" selection-end-line="49" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/app_global_model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42490843" vertical-offset="6806" max-vertical-offset="7888">
-          <caret line="414" column="36" selection-start-line="414" selection-start-column="36" selection-end-line="414" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/modules_core/superadmin/views/dashboard.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.423077" vertical-offset="255" max-vertical-offset="4199">
-          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/modules_core/superadmin/views/bg_home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="272">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/modules_core/superadmin/views/cabang/bg_input.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4047619" vertical-offset="102" max-vertical-offset="765">
-          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/modules_core/superadmin/views/cabang/bg_home.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5604396" vertical-offset="0" max-vertical-offset="546">
@@ -689,7 +675,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="748">
           <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -697,10 +682,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.62271065" vertical-offset="0" max-vertical-offset="1377">
           <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#audio#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -708,39 +689,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="94.07692" vertical-offset="5523" max-vertical-offset="6987">
           <caret line="181" column="24" selection-start-line="181" selection-start-column="24" selection-end-line="181" selection-end-column="24" />
-          <folding>
-            <marker date="1432780350000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432780350000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432780350000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432780350000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432780350000" expanded="true" signature="-1:-1" placeholder="select a.nam..dlmbg_admin_panitia..." />
-            <marker date="1432780350000" expanded="true" signature="-1:-1" placeholder="select a.nam..dlmbg_admin_panitia..." />
-            <marker date="1432780350000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432780350000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432780350000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432780350000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432780350000" expanded="true" signature="-1:-1" placeholder="select a.nam..dlmbg_sekolah_profil..." />
-            <marker date="1432780350000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432780350000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432780350000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432780350000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432780350000" expanded="true" signature="-1:-1" placeholder="select b.nam..dlmbg_admin_cabang..." />
-            <marker date="1432780350000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432780350000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432780350000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432780350000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432780350000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432780350000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432780350000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432780350000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432780350000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432780350000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432780350000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432780350000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432780350000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432780350000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1432780350000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -748,7 +696,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-9.807693" vertical-offset="51" max-vertical-offset="680">
           <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -756,7 +703,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-15.692307" vertical-offset="204" max-vertical-offset="2720">
           <caret line="36" column="50" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -764,7 +710,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.37362638" vertical-offset="0" max-vertical-offset="3043">
           <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -772,7 +717,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-12.423077" vertical-offset="0" max-vertical-offset="731">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -780,7 +724,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.48658317" vertical-offset="51" max-vertical-offset="1666">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -788,7 +731,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.57781756" vertical-offset="0" max-vertical-offset="1224">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -796,7 +738,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.57781756" vertical-offset="0" max-vertical-offset="1479">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -804,7 +745,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33699635" vertical-offset="581" max-vertical-offset="6222">
           <caret line="45" column="94" selection-start-line="45" selection-start-column="94" selection-end-line="45" selection-end-column="94" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -812,15 +752,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.3269231" vertical-offset="82" max-vertical-offset="799">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/modules_core/admin_panitia/controllers/data_cabang.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.3269231" vertical-offset="150" max-vertical-offset="765">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -828,7 +759,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="748">
           <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -836,7 +766,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.3269231" vertical-offset="150" max-vertical-offset="1649">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -852,7 +781,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.6538463" vertical-offset="82" max-vertical-offset="1003">
           <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -860,7 +788,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-9.423077" vertical-offset="197" max-vertical-offset="782">
           <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -868,7 +795,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.9615386" vertical-offset="134" max-vertical-offset="646">
           <caret line="20" column="113" selection-start-line="20" selection-start-column="113" selection-end-line="20" selection-end-column="113" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -876,7 +802,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="9.807693" vertical-offset="816" max-vertical-offset="1853">
           <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -884,7 +809,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.3653846" vertical-offset="26" max-vertical-offset="1768">
           <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -892,7 +816,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.3846154" vertical-offset="26" max-vertical-offset="1377">
           <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -900,7 +823,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.730769" vertical-offset="2695" max-vertical-offset="3315">
           <caret line="173" column="1" selection-start-line="173" selection-start-column="1" selection-end-line="173" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -908,7 +830,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5" vertical-offset="2219" max-vertical-offset="2805">
           <caret line="129" column="0" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -916,7 +837,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5" vertical-offset="26" max-vertical-offset="3825">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -924,7 +844,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5" vertical-offset="26" max-vertical-offset="1768">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -932,7 +851,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5" vertical-offset="26" max-vertical-offset="1496">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -940,7 +858,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5" vertical-offset="26" max-vertical-offset="1377">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -948,7 +865,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="9.942307" vertical-offset="2285" max-vertical-offset="3111">
           <caret line="104" column="46" selection-start-line="104" selection-start-column="46" selection-end-line="104" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -956,7 +872,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5" vertical-offset="26" max-vertical-offset="663">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -964,7 +879,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5711538" vertical-offset="26" max-vertical-offset="3587">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -972,7 +886,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.4615386" vertical-offset="109" max-vertical-offset="629">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -980,7 +893,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-15.692307" vertical-offset="0" max-vertical-offset="510">
           <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -988,10 +900,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="1190">
           <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-          <folding>
-            <marker date="1435816064463" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-            <marker date="1435816064463" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -999,7 +907,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.38273922" vertical-offset="0" max-vertical-offset="533">
           <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1007,7 +914,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6583184" vertical-offset="312" max-vertical-offset="1105">
           <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1015,7 +921,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="2873">
           <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1023,26 +928,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="289">
           <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/modules_core/superadmin/views/routing_pages/bg_input.php">
+    <entry file="file://$PROJECT_DIR$/application/modules_core/admin_panitia/controllers/data_cabang.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.807693" vertical-offset="170" max-vertical-offset="884">
-          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
-          <folding>
-            <element signature="n#style#0;n#input#0;n#section#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#1;n#section#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.3094812" vertical-offset="150" max-vertical-offset="765">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/modules_core/panlih/controllers/panlih.php">
+    <entry file="file://$PROJECT_DIR$/application/modules_core/panlih/views/bg_header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.5" vertical-offset="26" max-vertical-offset="663">
-          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
-          <folding />
+        <state vertical-scroll-proportion="0.62115383" vertical-offset="0" max-vertical-offset="1564">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -1050,15 +949,86 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="384">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules_core/panlih/controllers/panlih.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3488372" vertical-offset="26" max-vertical-offset="663">
+          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules_core/superadmin/views/routing_pages/bg_input.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46703297" vertical-offset="170" max-vertical-offset="884">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMM Setengah Abad.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8406593" vertical-offset="1377" max-vertical-offset="1938">
+          <caret line="108" column="7" selection-start-line="108" selection-start-column="7" selection-end-line="108" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/blue-clouds/admin_panitia/data_kader/bg_home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="289">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/blue-clouds/admin_panitia/data_cabang/bg_home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7820">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dokumentasi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.153846" vertical-offset="865" max-vertical-offset="1462">
+          <caret line="71" column="16" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/blue-clouds/bg_slider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3689">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/modules_core/panlih/views/bg_header.php">
+    <entry file="file://$PROJECT_DIR$/application/config/database.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5557692" vertical-offset="0" max-vertical-offset="1564">
-          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+        <state vertical-scroll-proportion="-15.615385" vertical-offset="1855" max-vertical-offset="2414">
+          <caret line="133" column="0" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.115385" vertical-offset="255" max-vertical-offset="12682">
+          <caret line="32" column="6" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dokumentasi/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.74725276" vertical-offset="2329" max-vertical-offset="5270">
+          <caret line="161" column="22" selection-start-line="161" selection-start-column="22" selection-end-line="161" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#p#8;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

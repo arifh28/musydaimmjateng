@@ -1,7 +1,7 @@
-#WebMusyda
+# ~ Web Musyda ~
 Adalah web aplikasi yang diperuntukkan untk acara Permusyaratan dalam hal ini Musyawarah Daerah. 
 
-#Fitur
+# ~ Fitur ~
 1. User Pimpinan Cabang terdiri dari :
 a. Daftar Peserta Musyda
 b. Daftar Calon Formatur
@@ -20,9 +20,9 @@ a. Menambah Operator Pimpinan Cabang dan Admin
 b. Mengatur tampilan website
 c. Memoderasi Pesan Musyda
 
-#Demo
+# ~ Demo ~
 
 Kunjungi <a href="http://tanfidz.dppimm.or.id/webmusyda" target="_blank">Web Musyda</a> dan untuk username dan password bisa dilihat pada blog <a href="http://immsetengahabad.blogspot.com/" target="_blank">IMM Setengah Abad</a> atau pada file dokumentasi.
 
-#BacaDokumentasi
+# ~ Baca Dokumentasi ~
 Lebih lengkap baca Dokumentasi dalam folder dokumentasi.

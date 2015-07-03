@@ -3,4 +3,4 @@ Adalah web aplikasi yang diperuntukkan untk acara Permusyaratan dalam hal ini Mu
 
 # ~ Demo dan Dokumentasi~
 
-Untuk Demo kunjungi <a href="http://tanfidz.dppimm.or.id/webmusyda" target="_blank">Web Musyda</a> dan untuk username dan password bisa dilihat pada <a href="http://tanfidz.dppimm.or.id/dokumentasi" target="_blank">Dokumentasi</a>.
+Untuk Demo kunjungi <a href="http://tanfidz.dppimm.or.id/webmusyda" target="_blank">Web Musyda</a> dan untuk username dan password bisa dilihat pada <a href="http://tanfidz.dppimm.or.id/webmusyda/dokumentasi" target="_blank">Dokumentasi</a>.

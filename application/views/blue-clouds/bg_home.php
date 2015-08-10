@@ -2,7 +2,7 @@
 
 <div class="tema">
 
-    <h1> Api Kebangkitan Mengawal Peradaban</h1>
+    <h1><?php echo $_SESSION['site_tema']; ?></h1>
 
     <p>"Milad IMM yang ke 51 tahun hendaknya bisa menjadi bahan perenungan panjang, posisi IMM harus lebih diperjelas dalam berperan mengawal peradaban, IMM seharusnya menjadi pemantik perubahan sejarah."</p>
 

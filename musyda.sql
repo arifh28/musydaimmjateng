@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: 02 Jul 2015 pada 12.39
+-- Generation Time: 09 Agu 2015 pada 13.25
 -- Versi Server: 5.6.21
 -- PHP Version: 5.6.3
 
@@ -53,7 +53,7 @@ CREATE TABLE IF NOT EXISTS `dlmbg_admin_cabang` (
   `username` varchar(100) NOT NULL,
   `password` varchar(50) NOT NULL,
   `email` varchar(100) NOT NULL
-) ENGINE=InnoDB AUTO_INCREMENT=17 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=latin1;
 
 --
 -- Dumping data untuk tabel `dlmbg_admin_cabang`
@@ -74,7 +74,7 @@ CREATE TABLE IF NOT EXISTS `dlmbg_admin_panitia` (
   `wan_wati` varchar(8) NOT NULL,
   `username_admin_panitia` varchar(100) NOT NULL,
   `password` varchar(50) NOT NULL
-) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=latin1;
 
 --
 -- Dumping data untuk tabel `dlmbg_admin_panitia`
@@ -169,7 +169,7 @@ CREATE TABLE IF NOT EXISTS `dlmbg_cabang_kader` (
   `no_hp` varchar(12) NOT NULL,
   `id_cabang` int(5) NOT NULL,
   `gambar` varchar(100) NOT NULL
-) ENGINE=InnoDB AUTO_INCREMENT=77 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 -- --------------------------------------------------------
 
@@ -183,7 +183,7 @@ CREATE TABLE IF NOT EXISTS `dlmbg_cabang_profil` (
   `visi_misi` text NOT NULL,
   `alamat` text NOT NULL,
   `email` varchar(50) NOT NULL
-) ENGINE=InnoDB AUTO_INCREMENT=20 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=latin1;
 
 --
 -- Dumping data untuk tabel `dlmbg_cabang_profil`
@@ -520,15 +520,9 @@ CREATE TABLE IF NOT EXISTS `dlmbg_menu` (
 --
 
 INSERT INTO `dlmbg_menu` (`id_menu`, `id_parent`, `menu`, `url_route`, `content`, `posisi`) VALUES
-(6, 1, 'Sambutan Kepala Dinas', '', 'Selamat datang di Website Dinas Perhubungan, Komunikasi dan Informatika Kota Pekanbaru, Website ini dimaksudkan sebagai sarana publikasi untuk memberikan Informasi dan gambaran Dinas Perhubungan, Komunikasi dan Informatika <p>Kota Pekanbaru dalam melaksanakan pelayanan perhubungan. Melalui keberadaan website ini kiranya masyarakat dapat mengetahui seluruh informasi tentang Kebijakan Pemerintah Kota Pekanbaru didalam pengelolaan sektor transportasi dan telekomunikasi di wilayah Kotamadya Pekanbaru.</p>\r\n\r\n<p>Kritik dan saran terhadap kekurangan dan kesalahan yang ada sangat kami harapkan guna penyempurnaan Website ini dimasa datang. Semoga Website ini memberikan manfaat bagi kita semua.</p>Selamat datang di Website Dinas Perhubungan, Komunikasi dan Informatika Kota Pekanbaru, Website ini dimaksudkan sebagai sarana publikasi untuk memberikan Informasi dan gambaran Dinas Perhubungan, Komunikasi dan Informatika <p>Kota Pekanbaru dalam melaksanakan pelayanan perhubungan. Melalui keberadaan website ini kiranya masyarakat dapat mengetahui seluruh informasi tentang Kebijakan Pemerintah Kota Pekanbaru didalam pengelolaan sektor transportasi dan telekomunikasi di wilayah Kotamadya Pekanbaru.</p>\r\n\r\n<p>Kritik dan saran terhadap kekurangan dan kesalahan yang ada sangat kami harapkan guna penyempurnaan Website ini dimasa datang. Semoga Website ini memberikan manfaat bagi kita semua.</p>', 'atas'),
-(7, 1, 'Visi dan Misi', '', 'Selamat datang di Website Dinas Perhubungan, Komunikasi dan Informatika Kota Pekanbaru, Website ini dimaksudkan sebagai sarana publikasi untuk memberikan Informasi dan gambaran Dinas Perhubungan, Komunikasi dan Informatika <p>Kota Pekanbaru dalam melaksanakan pelayanan perhubungan. Melalui keberadaan website ini kiranya masyarakat dapat mengetahui seluruh informasi tentang Kebijakan Pemerintah Kota Pekanbaru didalam pengelolaan sektor transportasi dan telekomunikasi di wilayah Kotamadya Pekanbaru.</p>\r\n\r\n<p>Kritik dan saran terhadap kekurangan dan kesalahan yang ada sangat kami harapkan guna penyempurnaan Website ini dimasa datang. Semoga Website ini memberikan manfaat bagi kita semua.</p>Selamat datang di Website Dinas Perhubungan, Komunikasi dan Informatika Kota Pekanbaru, Website ini dimaksudkan sebagai sarana publikasi untuk memberikan Informasi dan gambaran Dinas Perhubungan, Komunikasi dan Informatika <p>Kota Pekanbaru dalam melaksanakan pelayanan perhubungan. Melalui keberadaan website ini kiranya masyarakat dapat mengetahui seluruh informasi tentang Kebijakan Pemerintah Kota Pekanbaru didalam pengelolaan sektor transportasi dan telekomunikasi di wilayah Kotamadya Pekanbaru.</p>\r\n\r\n<p>Kritik dan saran terhadap kekurangan dan kesalahan yang ada sangat kami harapkan guna penyempurnaan Website ini dimasa datang. Semoga Website ini memberikan manfaat bagi kita semua.</p>', 'atas'),
-(8, 2, 'Struktur Kepegawaian', '', '<p>a.   Kepala Dinas;</p>\r\n<p>b.   Sekretariat :</p>\r\n<ol>\r\n<li>Sub Bagian Perencanaan;</li>\r\n<li>Sub Bagian  Umum dan Kepegawaian; dan</li>\r\n<li>Sub Bagian Keuangan</li>\r\n</ol>\r\n<p>c.   Bidang Pendidikan Dasar dan Agama :</p>\r\n<ol>\r\n<li>Seksi Sarana dan Prasarana Pendidikan Dasar dan Agama;</li>\r\n<li>Seksi  Kurikulum Pendidikan Dasar dan Agama; dan</li>\r\n<li>Seksi SPEM.</li>\r\n</ol>\r\n<p>d.   Bidang Pendidikan Menengah, Kejuruan dan Agama :</p>\r\n<ol>\r\n<li>Seksi Sarana dan Prasarana Pendidikan Menengah, Kejuruan dan Agama;</li>\r\n<li>Seksi  Kurikulum Pendidikan Menengah, Kejuruan dan Agama; dan</li>\r\n<li>Seksi SPEM.</li>\r\n</ol>\r\n<p>e.   Bidang Pemuda dan Olahraga :</p>\r\n<ol>\r\n<li>Seksi Pembinaan Pemuda;</li>\r\n<li>Seksi Pembinaan Olah Raga; dan</li>\r\n<li>Seksi Pembinaan PLS.</li>\r\n</ol>\r\n<p>f.    Bidang Ketenagaan Pendidikan  :</p>\r\n<ol>\r\n<li>Seksi Pendidikan dan Pelatihan;</li>\r\n<li>Seksi Ketenagaan TK/SD; dan</li>\r\n<li>Seksi Ketenagaan SMP/SMU/SMK.</li>\r\n</ol>', 'atas'),
-(9, 2, 'Data Kepegawaian', '/web/data_kepegawaian', '', 'atas'),
 (13, 0, 'Beranda', '/web/web', '', 'bawah'),
 (18, 0, 'Pesan Musyda', '/web/pesan_musyda', '', 'bawah'),
-(19, 0, 'Jadwal Musyda', 'web/jadwal_musyda', '', 'bawah'),
-(20, 0, 'Materi', 'http://materi.musydaxvii.immjateng.or.id/', '', 'bawah'),
-(22, 0, 'stvyertvyertvye', '', '<p> et5ye6ybertvy ghjbfybjybjyj<br></p>', 'bawah');
+(19, 0, 'Jadwal Musyda', 'web/jadwal_musyda', '', 'bawah');
 
 -- --------------------------------------------------------
 
@@ -541,7 +535,7 @@ CREATE TABLE IF NOT EXISTS `dlmbg_setting` (
   `tipe` varchar(50) NOT NULL,
   `title` varchar(100) NOT NULL,
   `content_setting` text NOT NULL
-) ENGINE=InnoDB AUTO_INCREMENT=15 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=14 DEFAULT CHARSET=latin1;
 
 --
 -- Dumping data untuk tabel `dlmbg_setting`
@@ -678,12 +672,12 @@ MODIFY `captcha_id` bigint(13) unsigned NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=2
 -- AUTO_INCREMENT for table `dlmbg_admin_cabang`
 --
 ALTER TABLE `dlmbg_admin_cabang`
-MODIFY `id_admin_cabang` int(5) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=17;
+MODIFY `id_admin_cabang` int(5) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=2;
 --
 -- AUTO_INCREMENT for table `dlmbg_admin_panitia`
 --
 ALTER TABLE `dlmbg_admin_panitia`
-MODIFY `id_admin_panitia` int(5) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=7;
+MODIFY `id_admin_panitia` int(5) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=2;
 --
 -- AUTO_INCREMENT for table `dlmbg_admin_panlih`
 --
@@ -703,12 +697,12 @@ MODIFY `id_cabang_formatur` int(5) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=16;
 -- AUTO_INCREMENT for table `dlmbg_cabang_kader`
 --
 ALTER TABLE `dlmbg_cabang_kader`
-MODIFY `id_cabang_kader` int(10) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=77;
+MODIFY `id_cabang_kader` int(10) NOT NULL AUTO_INCREMENT;
 --
 -- AUTO_INCREMENT for table `dlmbg_cabang_profil`
 --
 ALTER TABLE `dlmbg_cabang_profil`
-MODIFY `id_cabang_profil` int(5) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=20;
+MODIFY `id_cabang_profil` int(5) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=2;
 --
 -- AUTO_INCREMENT for table `dlmbg_counter`
 --
@@ -723,7 +717,7 @@ MODIFY `id_menu` int(5) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=23;
 -- AUTO_INCREMENT for table `dlmbg_setting`
 --
 ALTER TABLE `dlmbg_setting`
-MODIFY `id_setting` int(10) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=15;
+MODIFY `id_setting` int(10) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=14;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
